@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login_Landing_Page</string>
+    <string name="login_header">Log In</string>
+    <string name="login_input1">Username</string>
+    <string name="login_input2">Password</string>
+    <string name="login_button">Log In</string>
+    <string name="Welcome">Welcome</string>
+
+</resources>
